@@ -1,1 +1,1 @@
-this is file from github
+Shell script to automate app deployment and configuration in Roboshop application
